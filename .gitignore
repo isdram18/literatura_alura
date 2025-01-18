@@ -34,3 +34,4 @@ build/
 
 ### No se suben Variables de entorno ####
 !**/src/main/resources/application.properties
+/src/main/resources/application.properties
